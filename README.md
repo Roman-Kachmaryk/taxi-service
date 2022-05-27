@@ -4,6 +4,7 @@
 ![](https://media.timeout.com/images/105785000/1024/576/image.jpg)
 
 Project Description
+-------------
 This is a taxi service web application connected to a MySQL Database. It allows you to create, read, update, and delete data relating to cars and drivers that provide taxi services.
 
 You must either log in to your account using your login name and password or create a new account to be able to perform the above operations.
