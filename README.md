@@ -28,7 +28,7 @@ Technologies Used by this Application
 
 Getting Started
 -------------
-To run this application, install MySQL and Apache TomCat 9.0.50 on your computer and follow the instructions listed below:
+In order to run this application, install MySQL and Apache TomCat 9.0.50 on your computer and follow the instructions listed below:
 1. Clone this project.
 2. Run the SQL scripts placed in `init_db.sql` (`resources` directory) to create a new DB schema and the respective tables.
 3. Create a connection to your database in the `ConnectionUtil` class (`/taxi.util`) by using your credentials.
