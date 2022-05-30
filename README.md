@@ -16,7 +16,7 @@ A three-tier architecture-based project, this app consists of the following laye
 - Business Logic tier (services)
 - Data Tier (DAO)
 
-Technologies Used by this Application
+Technology Stack
 -------------
 - Java 11
 - Apache TomCat 9.0.50
