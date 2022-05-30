@@ -32,5 +32,5 @@ In order to run this application, install MySQL and Apache TomCat 9.0.50 on your
 1. Clone this project.
 2. Run the SQL scripts placed in `init_db.sql` (`resources` directory) to create a new DB schema and the respective tables.
 3. Create a connection to your database in the `ConnectionUtil` class (`/taxi.util`) by using your credentials.
-4. Configure TomCat. Use `/` as your application context.
+4. Configure TomCat. Use `/` as your application context path.
 5. You can now run this application by using a TomCat local server.
